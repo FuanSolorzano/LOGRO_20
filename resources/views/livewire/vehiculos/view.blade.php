@@ -31,8 +31,8 @@
 								<th>Marca</th>
 								<th>Modelo</th>
 								<th>Color</th>
-								<th>Categoria Id</th>
-								<th>User Id</th>
+								<th>Categoria</th>
+								<th>User</th>
 								<td>ACTIONS</td>
 							</tr>
 						</thead>
